@@ -37,7 +37,6 @@ public class Ren {
 	}
 
 	public static void main(String[] args) throws ImageProcessingException, IOException {
-//		String dirStr = "E:/迅雷下载/apple/tmp";
 		String dirStr = "D:\\apple\\img";
 		File fileDir = new File(dirStr);
 
